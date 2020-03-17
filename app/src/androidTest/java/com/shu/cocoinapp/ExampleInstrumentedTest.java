@@ -1,4 +1,4 @@
-package com.shu.pocketmoneyapp;
+package com.shu.cocoinapp;
 
 import android.content.Context;
 

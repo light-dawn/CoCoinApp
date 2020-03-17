@@ -1,4 +1,4 @@
-package com.shu.pocketmoneyapp.Model;
+package com.shu.cocoinapp.Model;
 
 public class Record {
     public String kind;        // 类别： 收入 或 支出

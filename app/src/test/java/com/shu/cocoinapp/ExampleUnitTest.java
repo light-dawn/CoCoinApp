@@ -1,4 +1,4 @@
-package com.shu.pocketmoneyapp;
+package com.shu.cocoinapp;
 
 import org.junit.Test;
 

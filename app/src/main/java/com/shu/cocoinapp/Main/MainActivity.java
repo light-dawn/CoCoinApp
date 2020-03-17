@@ -1,4 +1,4 @@
-package com.shu.pocketmoneyapp.Main;
+package com.shu.cocoinapp.Main;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,21 +8,17 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
-import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.shu.pocketmoneyapp.R;
-import com.shu.pocketmoneyapp.Model.Record;
-import org.w3c.dom.Text;
+import com.shu.cocoinapp.R;
+import com.shu.cocoinapp.Model.Record;
 
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.Locale;
 
-import com.shu.pocketmoneyapp.Utils.TimeUtils;
+import com.shu.cocoinapp.Utils.TimeUtils;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
